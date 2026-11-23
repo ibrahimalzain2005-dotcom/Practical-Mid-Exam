@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="details_activity_name">Artwork Details</string>
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+    <string name="button_back">Back</string>
+    <string name="button_visit_website">Visit Website</string>
+    <string name="counter_initial_value">1 / 6</string>
+    <string name="artwork_image_description">Selected artwork</string>
+    <string name="details_header">Artwork Details</string>
+    <string name="no_browser_message">No app can open this website.</string>
+
+    <string name="title_1">Mona Lisa</string>
+    <string name="artist_1">Leonardo da Vinci</string>
+    <string name="year_1">1503</string>
+
+    <string name="title_2">The Starry Night</string>
+    <string name="artist_2">Vincent van Gogh</string>
+    <string name="year_2">1889</string>
+
+    <string name="title_3">The Scream</string>
+    <string name="artist_3">Edvard Munch</string>
+    <string name="year_3">1893</string>
+
+    <string name="title_4">Girl with a Pearl Earring</string>
+    <string name="artist_4">Johannes Vermeer</string>
+    <string name="year_4">1665</string>
+
+    <string name="title_5">The Persistence of Memory</string>
+    <string name="artist_5">Salvador Dali</string>
+    <string name="year_5">1931</string>
+
+    <string name="title_6">The Great Wave off Kanagawa</string>
+    <string name="artist_6">Hokusai</string>
+    <string name="year_6">1831</string>
+</resources>
